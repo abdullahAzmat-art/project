@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+}
+.carousel-item img{
+    
+    width: 100%;
+    height: 90vh;
+}
+.carousel-item h5{
+    font-family: "Dancing Script",cursive ;
+
+}
+.carousel-inner::before{
+    content: " ";
+background: rgba(0, 0, 0, 0.7);}
+/* ul{
+    
+    font-family: "Dancing Script", cursive;
+} */
+.navbar-brand{
+    font-family: "Dancing Script", cursive;
+
+}
+.img-fluid{
+width: 330px;
+height: 240px;
+}
+.rounded-circle {
+width: 130px;
+height: 1300px;
+
+}
+.aa{
+    width: 350px;
+    height: 370px;
+    
+}
+.bb{
+    font-family: "Dancing Script", cursive;
+font-size: 25px;
+font-weight: bold;
+background: #FC5C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin: 0px;
+}
